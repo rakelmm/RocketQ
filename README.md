@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="public/images/img" width="100%">
+  <img alt="Rocket.Q" src="public/images/img/roquetQ.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
